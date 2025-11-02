@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/kalkausar/pincheck/pincheck"
+	"pincheck/pincheck"
 )
 
 func main() {
