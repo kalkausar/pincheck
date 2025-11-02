@@ -1,3 +1,3 @@
-module service-check-date-pin
+module pincheck
 
 go 1.20
