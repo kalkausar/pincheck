@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"service-check-date-pin/pincheck"
+	"pincheck/pincheck"
 )
 
 func main() {
